@@ -15,8 +15,9 @@ public class ConsoleRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception
 	{
 		String text = " <html><body> "
+				+ " <h2> FROM RAGHU SIR </h2> "
 				+ " <img src='cid:doc50'/> <br/>  "
-				+ " <h3> WELCOME TO ALL STUDENTS</h3> "
+				+ " <h3> \"WELCOME TO ALL STUDENTS\"</h3> "
 				+ " <b> All the best </b>"
 				+ "</body></html>";
 
